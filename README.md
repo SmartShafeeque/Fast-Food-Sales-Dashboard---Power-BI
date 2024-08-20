@@ -3,7 +3,7 @@
 ## Project Overview
 
 This Power BI dashboard provides an analysis of sales data for a fast food chain. The dashboard covers key business metrics like revenue, top-selling products, customer demographics, and sales trends, helping businesses make data-driven decisions.
-<center><img src="https://github.com/SmartShafeeque/fastfood/blob/main/Screenshot%20(30).png?raw=true" alt="Dashboard Preview" width="1200" >
+<center><img src="image/Screenshot (30).png" alt="Dashboard Preview" width="1200" >
 </center>
 
 
